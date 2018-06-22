@@ -9,3 +9,7 @@ The staging area differs in the nature, its existence is temporary, only exists 
 How can you use the staging area to make sure you have one commit per logical change?
 
 if you modify many files you can separate what will be comitted. Making this many times you can separate your work in many different commits.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches will help when it is needed to create a functionality and is uncertain to work. In a project you should not commit a bugged version to the master branch.
