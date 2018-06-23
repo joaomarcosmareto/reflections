@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Well, when it is no secret, or when I want somebody to help me, or even when I want a easy way to make backup.
